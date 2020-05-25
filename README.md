@@ -21,5 +21,5 @@ UnitTests can be put in inputCommand_unittest.txt and the filename needs to be e
 *To Do*:
 
 1. Check multi-level of dependency check. Currently only 2 levels checked. Suggested to use Recurssion.
-
+2. Provide the inputCommands.txt file from commandLine Arguments.
 
